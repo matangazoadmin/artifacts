@@ -1,32 +1,31 @@
 {
-  "name": "Compound",
-  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20081.png",
-  "keywords": [
-    "compound",
-    "defi"
-  ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
-  "tokens": [
-    {
-      "chainId": 2342,
-      "address": "0x21b3e80472491225E293bA0A812643e35D89C2c1",
-      "name": "OmniaVerse",
-      "symbol": "OMNIA",
-      "decimals": 8,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20081.png"
-    },
-        {
-      "chainId": 2342,
-      "address": "0xA66F02Afd206574C5bCDaE304433557D6A8600c2",
-      "name": "3D City",
-      "symbol": "3DC",
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1693932683577970688/KGNdUSIG_400x400.jpg"
-    }
-  ],
+  "name": "Uniswap Token Pairs",
+  "timestamp": "2021-02-18T18:12:31.882432+00:00",
   "version": {
     "major": 2,
     "minor": 0,
     "patch": 0
-  }
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "pairs"
+  ],
+  "tokens": [
+    {
+      "name": "OmniaVerse",
+      "address": "0x21b3e80472491225E293bA0A812643e35D89C2c1",
+      "symbol": "OMNIA",
+      "decimals": 8,
+      "chainId": 2342
+    },
+    {
+      "name": "3D City",
+      "address": "0xA66F02Afd206574C5bCDaE304433557D6A8600c2",
+      "symbol": "3DC",
+      "decimals": 18,
+      "chainId": 2342
+    }
+  ]
 }
