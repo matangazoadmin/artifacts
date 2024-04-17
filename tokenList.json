@@ -21,6 +21,13 @@
       "chainId": 2342
     },
     {
+      "name": "BlockVerse",
+      "address": "0x2B34EA7550f95828F4699E0F40d53EAb397C2135",
+      "symbol": "BLOCK",
+      "decimals": 8,
+      "chainId": 2342
+    },
+    {
       "name": "3D City",
       "address": "0x5F1518eB05E549549a705C4C7D5c65Bc45c13c3c",
       "symbol": "3DC",
