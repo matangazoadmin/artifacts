@@ -22,14 +22,6 @@
       "chainId": 2342
     },
     {
-      "name": "BlockVerse",
-      "address": "0x7E3BCC5CAFed184c0823Fa7cB1E33e5c1EC730b7",
-      "symbol": "BLOCK",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24251.png",
-      "decimals": 8,
-      "chainId": 2342
-    },
-    {
       "name": "3D City",
       "address": "0x5F1518eB05E549549a705C4C7D5c65Bc45c13c3c",
       "symbol": "3DC",
