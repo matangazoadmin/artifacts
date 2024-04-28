@@ -17,6 +17,7 @@
       "name": "OmniaVerse",
       "address": "0x21b3e80472491225E293bA0A812643e35D89C2c1",
       "symbol": "OMNIA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20081.png"
       "decimals": 8,
       "chainId": 2342
     },
@@ -24,6 +25,7 @@
       "name": "BlockVerse",
       "address": "0x7E3BCC5CAFed184c0823Fa7cB1E33e5c1EC730b7",
       "symbol": "BLOCK",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24251.png",
       "decimals": 8,
       "chainId": 2342
     },
@@ -31,6 +33,7 @@
       "name": "3D City",
       "address": "0x5F1518eB05E549549a705C4C7D5c65Bc45c13c3c",
       "symbol": "3DC",
+      "logoURI": "https://pbs.twimg.com/profile_images/1693932683577970688/KGNdUSIG_400x400.jpg"
       "decimals": 18,
       "chainId": 2342
     }
