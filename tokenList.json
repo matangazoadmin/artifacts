@@ -22,6 +22,22 @@
       "chainId": 2342
     },
     {
+      "name": "BlockVerse",
+      "address": "0x7E3BCC5CAFed184c0823Fa7cB1E33e5c1EC730b7",
+      "symbol": "BLOCK",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24251.png",
+      "decimals": 8,
+      "chainId": 2342
+    },
+    {
+      "name": "HIPPO",
+      "address": "0x0E2a733953E150efE7f2Fe6ed46c5eF28b5C37ea",
+      "symbol": "HIPPO",
+      "logoURI": "https://jade-payable-camel-662.mypinata.cloud/ipfs/QmZLMttPDtfGQR3p6WBPyw9YnNEeuZ43BtvatYXn6nuUS3",
+      "decimals": 8,
+      "chainId": 2342
+    },
+    {
       "name": "3D City",
       "address": "0x5F1518eB05E549549a705C4C7D5c65Bc45c13c3c",
       "symbol": "3DC",
