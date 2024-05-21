@@ -44,6 +44,14 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1693932683577970688/KGNdUSIG_400x400.jpg",
       "decimals": 18,
       "chainId": 2342
+    },
+    {
+      "name": "USDT",
+      "address": "0x2A269a62A9012F4264BFFa34f91b84195D87010e",
+      "symbol": "USDT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "decimals": 18,
+      "chainId": 2342
     }
   ]
 }
