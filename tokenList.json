@@ -59,7 +59,7 @@
       "symbol": "USDT",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
       "decimals": 18,
-      "chainId": 56
+      "chainId": 2342
     }
   ]
 }
