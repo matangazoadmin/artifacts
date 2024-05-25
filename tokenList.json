@@ -60,6 +60,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
       "decimals": 18,
       "chainId": 1
+    },
+    {
+      "name": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "decimals": 18,
+      "chainId": 56
     }
   ]
 }
